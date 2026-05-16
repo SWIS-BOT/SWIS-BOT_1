@@ -1,2 +1,2 @@
-This is a CHAT-BOT designed by PS.
+This is a CHAT-BOT.
 Based on LLM GPT:4.O mini
